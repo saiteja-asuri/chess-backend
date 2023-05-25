@@ -1,4 +1,5 @@
 # Ignore files in server folder
 .env
+/node_modules
 
 
